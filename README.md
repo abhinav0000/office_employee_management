@@ -7,4 +7,4 @@ This is a django based project that will helpt you to manage you employee person
 <li>Bootstrap</li>
 </ol></h3>
 
-<h2>Deployed Version:</h2> https://office-employee-manager.herokuapp.com/
+<h2>Deployed Version:</h2> <a href="https://office-employee-manager.herokuapp.com/">link</a>
